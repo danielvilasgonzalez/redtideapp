@@ -1,0 +1,161 @@
+"runs","m.inf","m.slope","f.inf","f.slope","m_slope","m_sens","f_sens","FG","fxn","bid","lid"
+1," 50000"," 50.0",NA,NA,"Flat","High",NA,"Gag groups","Mortality","1PamxWwdxZk0H4VrvhYj5b3kteqNUqgzv","1ezOcwawGCQX0rp7MSLKRZ99t4WiKdTny"
+2," 50000","  2.5",NA,NA,"Medium flat","High",NA,"Gag groups","Mortality","1Bf8knXoajow5PdevF5AD0RcEkGJ16Pfr","1IQedZF6zTHlYGY3bQNhXFr0QmZiG7Nr_"
+3," 50000","  1.0",NA,NA,"Medium steep","High",NA,"Gag groups","Mortality","14LaC9jJFMbtYmjzd_nTc_EsGn25UA2rb","1cJ3FDubpl-Vg4akQKpywpKPZOFYq5pCE"
+4," 50000","  0.5",NA,NA,"Steep","High",NA,"Gag groups","Mortality","1HwWs3xwvvHEyNxQnuuK-kC0xFeKKEatF","1zmnsqaBUkJuPltnXugTFzykRT5X5kIK_"
+5,"100000","100.0",NA,NA,"Flat","Medium high",NA,"Gag groups","Mortality","1fUnkwkzdsHvWzPkSoI3fguKJr2Ay85Ft","1TWki2n8_q1ETyYkFMJNwGJVzsi4eo7tl"
+6,"100000","  5.0",NA,NA,"Medium flat","Medium high",NA,"Gag groups","Mortality","1qpwQdkW5gP8CNH4VPDU558LRa8hYFb7x","1lBuybH8c2cooBjL5Mck8lfXzNxl1-dLU"
+7,"100000","  2.0",NA,NA,"Medium steep","Medium high",NA,"Gag groups","Mortality","1TP3KynZ9lv0_gedW01bl5U91UidUDIej","1LRDlKPrZFnvvPTMq4Lk4XHDvAhAeHNUM"
+8,"100000","  1.0",NA,NA,"Steep","Medium high",NA,"Gag groups","Mortality","1HepDvlSAxtvqxYnkostTlDnGljvvQwmC","1JtAcR_XI_P_gwNeEH_dZTmndEPF2HMgY"
+9,"200000","200.0",NA,NA,"Flat","Medium",NA,"Gag groups","Mortality","1SNsLeQTqStv209xbJygfwX-XKudjWwzh","1bw109gO67mtPt-oncSGgtFwBuTskvecD"
+10,"200000"," 10.0",NA,NA,"Medium flat","Medium",NA,"Gag groups","Mortality","1285f2na66thVuM0GMMJZtc47ItHgC4c9","1vr9Fhw_3coTO2yU4yhx6rfu2wR_h2dMb"
+11,"200000","  4.0",NA,NA,"Medium steep","Medium",NA,"Gag groups","Mortality","1i0UXgawr0o8wD0LMSJAsWeyilwuwqWGL","1rTTB-gl6JFp9oiFBTjSv1Op4696tHsZ7"
+12,"200000","  2.0",NA,NA,"Steep","Medium",NA,"Gag groups","Mortality","1ZsVpMLxEaqNFJFJhu6HxCRlCZrA_-7uC","1qiZGhJ3iBRRkwSNglXGiS9DcGY5KhtyN"
+13,"300000","300.0",NA,NA,"Flat","Medium low",NA,"Gag groups","Mortality","1dMyAqSKilQ1uWC7NNh5uRp5R-AjVXo2m","172iFG-oSY3yan0ijZCXg1H94g7j0npR8"
+14,"300000"," 15.0",NA,NA,"Medium flat","Medium low",NA,"Gag groups","Mortality","1ZdFSCB4YgAPEPUEJvPqsFMl9IsF-OBwb","1LmEnmgo7izivC-0tZ61Upo1afujTUjAE"
+15,"300000","  6.0",NA,NA,"Medium steep","Medium low",NA,"Gag groups","Mortality","1smByyKK6A8-S-hLkIK8UMrUKGx0oqPLQ","1JveTcaSKlTSsl-qsEVep1IcpS28nMH7Q"
+16,"300000","  3.0",NA,NA,"Steep","Medium low",NA,"Gag groups","Mortality","16XgNBaQPKu_BphUtRflNZAn73o6oSZwz","1pySY7MMbe-hTfmkS7PAY7hUywlfJO6eR"
+17,"400000","400.0",NA,NA,"Flat","Low",NA,"Gag groups","Mortality","1ZVwaqEl9jaCEFWSbrNiKBTfl_cQCCod3","1DS4E5tp7RCiEQMB7L7iicRDehI5Dxzwk"
+18,"400000"," 20.0",NA,NA,"Medium flat","Low",NA,"Gag groups","Mortality","1iRXNXGTToLBHuaNB4_pMXNZWaSE-ukcg","1Bk72g034JBNtcIWYStogOLoB-imrBcs2"
+19,"400000","  8.0",NA,NA,"Medium steep","Low",NA,"Gag groups","Mortality","1vN5pgz0QkbHSdAx_-yQDG7Vnyow0H5OZ","1WsU3sd7BEzTvdkRgjqlQXDKOB59m-g2p"
+20,"400000","  4.0",NA,NA,"Steep","Low",NA,"Gag groups","Mortality","1zJVXdpaepNLVdGw4EcjERuo6AyRdlWJP","19wv-gFNfaTnkLuKfNkrXMz4bj_WA8CkO"
+21," 50000"," 50.0"," 12500"," -0.625","Flat","High","High","Gag groups","Mortality and foraging","1_Oosl_LWUYtiOAcvn2sgWC943HQvIsKu","1VIR26_AO6n3lEmPfM-8XzG7g15g4QeY3"
+22," 50000","  2.5"," 12500"," -0.625","Medium flat","High","High","Gag groups","Mortality and foraging","1gr6lt9_eUCUoX_eHrd6Ssr9FwbHVwxhh","1tm27DeS7gTuo3XgRCmYRdIw8jwADxM0Q"
+23," 50000","  1.0"," 12500"," -0.625","Medium steep","High","High","Gag groups","Mortality and foraging","1o-cSVpOktphQv5296ZJo693BivKGM6IB","1yCi6WDIL86ll3k8zyFXkKEF5Bh0YqAVv"
+24," 50000","  0.5"," 12500"," -0.625","Steep","High","High","Gag groups","Mortality and foraging","11yghnzAbFWHQ1KDjxFt1rRWMzMgGUL1l","15fPXPqiOO00-KU6bJHFvgAyawqb1lJmr"
+25," 50000"," 50.0"," 25000"," -1.250","Flat","High","Medium","Gag groups","Mortality and foraging","1yfbRpscyDoDs3UQvJL07LqUmv7avLpvw","1MX5FLeUUeczNPOUHUlhL8aGyUOEeV3mt"
+26," 50000","  2.5"," 25000"," -1.250","Medium flat","High","Medium","Gag groups","Mortality and foraging","1RMBADRnJWPIkSUTDeCYCvwg657nc1xrJ","1KKDLSipgig2qGYZG6UzpeGQ9VSkzkmG4"
+27," 50000","  1.0"," 25000"," -1.250","Medium steep","High","Medium","Gag groups","Mortality and foraging","1P9fHoVHGMbVptqAQgy8WnQEOTmRsP2Wq","1ESsJMIx6GJJLMwcm6Jp-bs_QEaRpApqo"
+28," 50000","  0.5"," 25000"," -1.250","Steep","High","Medium","Gag groups","Mortality and foraging","1rcCQLc7uIoV3z9wMwHxCuB6-Jy5PwU4U","1PTogxvZhFuvGy6BlWP-_onCWzliZZYP5"
+29," 50000"," 50.0"," 37500"," -1.875","Flat","High","Low","Gag groups","Mortality and foraging","1pP59LYTukmNI00dw8IVhnC03f6cL6Ygm","1lZ26d2GjpcXLVPszJbedJRH4-TeAdI4q"
+30," 50000","  2.5"," 37500"," -1.875","Medium flat","High","Low","Gag groups","Mortality and foraging","1_3UD0dbU06p-H0vZDGKIvH8vpfI_i2Q3","1Ofzvrz7k4sxiK2HJqGzLlyuXpCPyII3M"
+31," 50000","  1.0"," 37500"," -1.875","Medium steep","High","Low","Gag groups","Mortality and foraging","1FAaC-d18SSlgf9BlXjjnHnkzP3iEJKaY","1qdEpe1fgssgB_CNquPlPMGgRULX4KPhP"
+32," 50000","  0.5"," 37500"," -1.875","Steep","High","Low","Gag groups","Mortality and foraging","13AzFVFfaggrGXOY5bnkAiz1SdyUtN-Aq","1F2bIWmbsAlufoNEXwyLObcwlLiZiYYpV"
+33,"400000","400.0","100000"," -5.000","Flat","Low","High","Gag groups","Mortality and foraging","1ptB9AWvtkHXqcKhEN5oLQo6Hw26frdhZ","1VJZru-Kifk9ey1jbOhl52d0DehhU_vfW"
+34,"400000"," 20.0","100000"," -5.000","Medium flat","Low","High","Gag groups","Mortality and foraging","1Ee2_5xw0dx3sEO78nk5aMiDqqB5LKdQB","10osAy3YysuGsvH8o3IGKJR5cUtWoOIQ_"
+35,"400000","  8.0","100000"," -5.000","Medium steep","Low","High","Gag groups","Mortality and foraging","13cMRPo7ihppps4N3gBXFBwymBAWaAQ2i","14FRnpAYHbxYUScguObqxtGyGkYdruVfr"
+36,"400000","  4.0","100000"," -5.000","Steep","Low","High","Gag groups","Mortality and foraging","1bOABUAQyFaJmJWVVn6igEHUeoWa8FXoj","1lcAxiWEm-EtzmElwAIhw1G3FZp1ePuoU"
+37,"400000","400.0","200000","-10.000","Flat","Low","Medium","Gag groups","Mortality and foraging","10_DLu6tFvA9tjDby7HXSF6kxTIMykEOm","1-I8f88MjV2OV0sR6vlJTjcJI4tieIOqt"
+38,"400000"," 20.0","200000","-10.000","Medium flat","Low","Medium","Gag groups","Mortality and foraging","10WHMvYyZKOyNrsOMJ6oJI4_CRsjDJFwG","1mprxeKqwx_WAVApWWhwXzOb_bW7L_wHu"
+39,"400000","  8.0","200000","-10.000","Medium steep","Low","Medium","Gag groups","Mortality and foraging","1zyBXs45tZsFkH266vzKB6C23HPuQ5MTg","1DsxjM_kqIkRvcUeV-6B5WBk_4OmfocOQ"
+40,"400000","  4.0","200000","-10.000","Steep","Low","Medium","Gag groups","Mortality and foraging","1wNX5T7P32VA0Efz4_zcvpV1cSvHa7AmR","1Ok_cN9r-3Bwv-UBtw2Eu4eO5sVP7xl2u"
+41,"400000","400.0","300000","-15.000","Flat","Low","Low","Gag groups","Mortality and foraging","1dqf467W-aSxDdULWyJURVvb8s7D4zunE","1hcISUorJs3Qeqa4GDN2HXMLoJQeKekqN"
+42,"400000"," 20.0","300000","-15.000","Medium flat","Low","Low","Gag groups","Mortality and foraging","1ixAH3YFyY5TPgcXJoO3yO3LdOEPnDCwo","1cVXoF3kUAmfmGgfzqUeguOHcDxQHTTvR"
+43,"400000","  8.0","300000","-15.000","Medium steep","Low","Low","Gag groups","Mortality and foraging","1xFOndYJoVbPifSCYQiri3zi3kDEOVBsl","1-q-13OhCbVLJbZGFBvElt0JX0rnyYJhX"
+44,"400000","  4.0","300000","-15.000","Steep","Low","Low","Gag groups","Mortality and foraging","11KKOAdBIOZuuVxibgdFQRIiNfNqn3NIL","1jRoTbULCmfBWJX75bdRPAgKyGok48hZn"
+45,"200000","200.0"," 50000"," -2.500","Flat","Medium","High","Gag groups","Mortality and foraging","13GzEgmS0GO6pFpNyrMv7r59XtMA4jNBe","1gjp4N06Jl887NTyhzIijzGIAKBBR_v_A"
+46,"200000"," 10.0"," 50000"," -2.500","Medium flat","Medium","High","Gag groups","Mortality and foraging","1wieR0p2fggfgwscB1_YpX6XAdMb6HxAO","1Od0HPSn3QOEDRAyUoCo-Ek9_YH-hFoDI"
+47,"200000","  4.0"," 50000"," -2.500","Medium steep","Medium","High","Gag groups","Mortality and foraging","15xyzAHEG8ED7gBQnLLWg5opgeEhz0kYN","14oPGPn7I1bZBazDB-plSvfCcVjKK7z1C"
+48,"200000","  2.0"," 50000"," -2.500","Steep","Medium","High","Gag groups","Mortality and foraging","1rNJyv6nFjZlOaP4PpwSL0kt2KiqND2p0","1OO6WYyjGhADExkD2ugyojlvyPKrwjSF5"
+49,"200000","200.0","100000"," -5.000","Flat","Medium","Medium","Gag groups","Mortality and foraging","1zz8L2JSe9unP0H5xtUOiG7SVFVoCgQzs","1CUPXW0P_zhLXdIBl0d0O2uSHsz29Jhbn"
+50,"200000"," 10.0","100000"," -5.000","Medium flat","Medium","Medium","Gag groups","Mortality and foraging","1cy3rGB72VrVi3IsPcXXWDla2dD7bjBz7","16Ouoju7rzV1Kq0ANmsVqsV1tKRg0bUC5"
+51,"200000","  4.0","100000"," -5.000","Medium steep","Medium","Medium","Gag groups","Mortality and foraging","1a9YcoXJt6MOJCvIl1cvvLGGHJERnHnZo","1fWdMJZoJN7v3mqkc-itOegziUI0R7XYb"
+52,"200000","  2.0","100000"," -5.000","Steep","Medium","Medium","Gag groups","Mortality and foraging","12KIKubDV6apzIVdTD6cos4u_AnfIGRIq","1UjdNLnQ1SCnae0NB3ZXQyqBpaei7XUqx"
+53,"200000","200.0","150000"," -7.500","Flat","Medium","Low","Gag groups","Mortality and foraging","13i6Z_hifrjdAFQ8qKRR6tfKrDBDQOt85","1YCQMIAw2lyirqc_Ozq_-CeluEENqrUCY"
+54,"200000"," 10.0","150000"," -7.500","Medium flat","Medium","Low","Gag groups","Mortality and foraging","14GRuXnvsxI1vcCPlvxsINBTEt1Haa4ML","1S_SPpmndjShUGYrm8S8m1W_Ntkb2ieQj"
+55,"200000","  4.0","150000"," -7.500","Medium steep","Medium","Low","Gag groups","Mortality and foraging","1HINxs34bRJD1Y6cHn3Q_98-ZWDtCXTpU","1RoSqSybYeGVZcD0wsaXMVd8nDR7UrOft"
+56,"200000","  2.0","150000"," -7.500","Steep","Medium","Low","Gag groups","Mortality and foraging","19FUUBgHYH3W6BacoWy0X2m3mWJP3ERY6","1azwmQFxNUb7_jP-XVaVeH190D3W7YCz7"
+57,"100000","100.0"," 25000"," -1.250","Flat","Medium high","High","Gag groups","Mortality and foraging","1zVi5oKXkvZRam9HHgmKOf29H01bdDpun","1yPBmwutmv68Mjv6QrdSSEibBuU9AmWm4"
+58,"100000","  5.0"," 25000"," -1.250","Medium flat","Medium high","High","Gag groups","Mortality and foraging","1b9Q1DvwEWKhxjO51Qdbq3hNZHGfNlrQv","1ZN0Mp9xrWnSe2EEbSgkre6XUr1_lwWxY"
+59,"100000","  2.0"," 25000"," -1.250","Medium steep","Medium high","High","Gag groups","Mortality and foraging","1ACyDQ4L1RjGot6SyW56BTF8loRr7OJsB","1fRrSu1WuTI-QndqKlDQ_Z1J8LgU9IbSq"
+60,"100000","  1.0"," 25000"," -1.250","Steep","Medium high","High","Gag groups","Mortality and foraging","1DRwjegA6d18tcY4TqQ5nFNIrff7sFoWp","1Lbz3IVJfpLkuofLaKBylIuvmKciwyB0b"
+61,"100000","100.0"," 50000"," -2.500","Flat","Medium high","Medium","Gag groups","Mortality and foraging","1a6csfPpseiYmWSbW53M_9LBN7rkYi2bn","17ZfQk_dwNEropt6_APQYq37Za5l5IUFq"
+62,"100000","  5.0"," 50000"," -2.500","Medium flat","Medium high","Medium","Gag groups","Mortality and foraging","1iWYjrTAPOIpCIv-M1Q7dI9j5h5t2g5Vg","1nUx9xT0qq6S50BKKSxv0PMz-UFppGWbJ"
+63,"100000","  2.0"," 50000"," -2.500","Medium steep","Medium high","Medium","Gag groups","Mortality and foraging","1k5OjSk2OGHTM9e_GWECeqisnQXkqhH5f","1FmVQug1nKhqyZjyGc0qjX_PBcLe9wfg4"
+64,"100000","  1.0"," 50000"," -2.500","Steep","Medium high","Medium","Gag groups","Mortality and foraging","1hJQrWwK0XAPc3wEyEQD6_H5kWFhYx4rF","1GMiWdcLmDOwXTIh7zogkNQlfzMkGuGhV"
+65,"100000","100.0"," 75000"," -3.750","Flat","Medium high","Low","Gag groups","Mortality and foraging","1RtbNkeyyxfMK0lAdi4mefs0yPGtUD1IT","1up-g83650VrKcpQaGig1KpIpyD9ZgEA8"
+66,"100000","  5.0"," 75000"," -3.750","Medium flat","Medium high","Low","Gag groups","Mortality and foraging","1jKhP29IDGtnNaf9T2Jmb7NDKG-8K8no5","1BgX4cCvpG312_3xwhwqS6kiYoSprShvk"
+67,"100000","  2.0"," 75000"," -3.750","Medium steep","Medium high","Low","Gag groups","Mortality and foraging","1R7MVn7_m6uUGebTgFglbe8zZ8La5rNSF","1SktFxfWe3S92KF3ctzwflhGVdkMVvKEr"
+68,"100000","  1.0"," 75000"," -3.750","Steep","Medium high","Low","Gag groups","Mortality and foraging","1KSH_ouIfR6wYabejQwGg3S6i6y4p_o24","1k6oy1neUQDsRGTQyqrKqJL_VVefLAR9C"
+69,"300000","300.0"," 75000"," -3.750","Flat","Medium low","High","Gag groups","Mortality and foraging","1hoXWprvVD_w8TJIKqQNGLt8C1lcZQ74t","1kdJdH4KjHMyX4ufDGkaSavRhi7VFAJtL"
+70,"300000"," 15.0"," 75000"," -3.750","Medium flat","Medium low","High","Gag groups","Mortality and foraging","1o1Kyn5e5RCe_XGmuq870icd4bPCv12xx","12KxtYQivmw91RzkuGSzr-8VCajRyspCN"
+71,"300000","  6.0"," 75000"," -3.750","Medium steep","Medium low","High","Gag groups","Mortality and foraging","1TniEhkn0YTdcMEaj2yHCvJSp8Ce1Lva0","1SBYoxXbuLHy9JSDDHnPFfuMyaQNCEa47"
+72,"300000","  3.0"," 75000"," -3.750","Steep","Medium low","High","Gag groups","Mortality and foraging","1lE0PpQGO1BPZQKgv3Jhr_hBP39Ogtevj","1TmDMzqO5MAnz9I3YplUexP7BVovcKx8Y"
+73,"300000","300.0","150000"," -7.500","Flat","Medium low","Medium","Gag groups","Mortality and foraging","1A4prd5ye81rd6fnuQafoMZltWjY4bT66","1D9gSyPMWgc6VkU7MsN5v0WPjC7KHCg-M"
+74,"300000"," 15.0","150000"," -7.500","Medium flat","Medium low","Medium","Gag groups","Mortality and foraging","148__rfZZKME0WIxmiNKBJxoJpRCC9hQc","1iGO41I3PY1VJrC5hObFOrksHY5PArEKC"
+75,"300000","  6.0","150000"," -7.500","Medium steep","Medium low","Medium","Gag groups","Mortality and foraging","1CcblBNJd80n4zn3eDh8kvFqIiik5InRB","1ORVQEPtdQYVAl25PL25FkAOqhX1fdMah"
+76,"300000","  3.0","150000"," -7.500","Steep","Medium low","Medium","Gag groups","Mortality and foraging","12pUaSrRN1zGIZ1U6z0S8N4gBiB_CDesG","1K9URjMp5IO5kQKuk2s91jib969lBwwZF"
+77,"300000","300.0","225000","-11.250","Flat","Medium low","Low","Gag groups","Mortality and foraging","134JuqJRVeEEoCFf4cSMCA1_Jkhe1Cr18","11hqvBS8dCP235h6J7J7LS4OV7p2k2n5l"
+78,"300000"," 15.0","225000","-11.250","Medium flat","Medium low","Low","Gag groups","Mortality and foraging","1uef8WitSjUod3d8qRP0v7QKQPM44IXCj","1iRsVMmnbOU1kP1eBjFbEeYCtFRFx_w1u"
+79,"300000","  6.0","225000","-11.250","Medium steep","Medium low","Low","Gag groups","Mortality and foraging","1w1c7GrgTRKVUmPuuETZkxGmjruzT5yby","1lM31UrEucu8kO3XBSFunblRwdyXbuHdg"
+80,"300000","  3.0","225000","-11.250","Steep","Medium low","Low","Gag groups","Mortality and foraging","1jjBopRqe3KBSWi8nnE_PiS3nNk05vepk","1xGdpRZ2DdQcSNbIru5ClFHbe7mj4Jdna"
+81," 50000"," 50.0",NA,NA,"Flat","High",NA,"All consumer groups","Mortality","1CY9ZzzERA_rmtVhtMGhOLsVGp0tUFeFg","1XZ7J5rFhNI5AkfIfEXMDV13Bq5DTnkkh"
+82," 50000","  2.5",NA,NA,"Medium flat","High",NA,"All consumer groups","Mortality","1dDnLrSF-bUZhw54eJ16Cxn5u7NgPCUbd","1uokEbt9TrGU9wx2MrBjJ_VK03acqLsQc"
+83," 50000","  1.0",NA,NA,"Medium steep","High",NA,"All consumer groups","Mortality","1rpUujp-YS5EQfpMO3IMw1qQbV3V8YTyb","1xFD-dxlo989dbqzZHaWDrLknJhBxf05s"
+84," 50000","  0.5",NA,NA,"Steep","High",NA,"All consumer groups","Mortality","12XYOPNjbY9x9ZTZ3bSkZrjYp6M0zek9i","1ZG0UDl8fEg8xJA5sCgpHTASXETlS3Nh4"
+85,"100000","100.0",NA,NA,"Flat","Medium high",NA,"All consumer groups","Mortality","1Lgcso0Jv1Q8QSJaA7FRgYLgZ6yy-4lpV","1hIw7ddCzc_vZQgI0O7dSVP_rCgmm1cmc"
+86,"100000","  5.0",NA,NA,"Medium flat","Medium high",NA,"All consumer groups","Mortality","1LWi1leazcpfdKMEbPUu9as0rPDTVpYpa","1_NauNGenxHKWdqmTMFhU2_mGIxYDS0oD"
+87,"100000","  2.0",NA,NA,"Medium steep","Medium high",NA,"All consumer groups","Mortality","1FewZR5cPaCiEY6gSKf5fZUdKeZzSlcln","153o-51NXCbEIEagPFDqiadJTOFAjiN1B"
+88,"100000","  1.0",NA,NA,"Steep","Medium high",NA,"All consumer groups","Mortality","1Mnkz1JDiWQrHQQDteeWZPIw7brj0rmKB","1nwS50voKj7CwZcfFfta1mzugTtZORgBf"
+89,"200000","200.0",NA,NA,"Flat","Medium",NA,"All consumer groups","Mortality",NA,NA
+90,"200000"," 10.0",NA,NA,"Medium flat","Medium",NA,"All consumer groups","Mortality",NA,NA
+91,"200000","  4.0",NA,NA,"Medium steep","Medium",NA,"All consumer groups","Mortality",NA,NA
+92,"200000","  2.0",NA,NA,"Steep","Medium",NA,"All consumer groups","Mortality",NA,NA
+93,"300000","300.0",NA,NA,"Flat","Medium low",NA,"All consumer groups","Mortality",NA,NA
+94,"300000"," 15.0",NA,NA,"Medium flat","Medium low",NA,"All consumer groups","Mortality",NA,NA
+95,"300000","  6.0",NA,NA,"Medium steep","Medium low",NA,"All consumer groups","Mortality",NA,NA
+96,"300000","  3.0",NA,NA,"Steep","Medium low",NA,"All consumer groups","Mortality",NA,NA
+97,"400000","400.0",NA,NA,"Flat","Low",NA,"All consumer groups","Mortality",NA,NA
+98,"400000"," 20.0",NA,NA,"Medium flat","Low",NA,"All consumer groups","Mortality",NA,NA
+99,"400000","  8.0",NA,NA,"Medium steep","Low",NA,"All consumer groups","Mortality",NA,NA
+100,"400000","  4.0",NA,NA,"Steep","Low",NA,"All consumer groups","Mortality",NA,NA
+101," 50000"," 50.0"," 12500"," -0.625","Flat","High","High","All consumer groups","Mortality and foraging",NA,NA
+102," 50000","  2.5"," 12500"," -0.625","Medium flat","High","High","All consumer groups","Mortality and foraging",NA,NA
+103," 50000","  1.0"," 12500"," -0.625","Medium steep","High","High","All consumer groups","Mortality and foraging",NA,NA
+104," 50000","  0.5"," 12500"," -0.625","Steep","High","High","All consumer groups","Mortality and foraging",NA,NA
+105," 50000"," 50.0"," 25000"," -1.250","Flat","High","Medium","All consumer groups","Mortality and foraging",NA,NA
+106," 50000","  2.5"," 25000"," -1.250","Medium flat","High","Medium","All consumer groups","Mortality and foraging",NA,NA
+107," 50000","  1.0"," 25000"," -1.250","Medium steep","High","Medium","All consumer groups","Mortality and foraging",NA,NA
+108," 50000","  0.5"," 25000"," -1.250","Steep","High","Medium","All consumer groups","Mortality and foraging",NA,NA
+109," 50000"," 50.0"," 37500"," -1.875","Flat","High","Low","All consumer groups","Mortality and foraging",NA,NA
+110," 50000","  2.5"," 37500"," -1.875","Medium flat","High","Low","All consumer groups","Mortality and foraging",NA,NA
+111," 50000","  1.0"," 37500"," -1.875","Medium steep","High","Low","All consumer groups","Mortality and foraging",NA,NA
+112," 50000","  0.5"," 37500"," -1.875","Steep","High","Low","All consumer groups","Mortality and foraging",NA,NA
+113,"400000","400.0","100000"," -5.000","Flat","Low","High","All consumer groups","Mortality and foraging",NA,NA
+114,"400000"," 20.0","100000"," -5.000","Medium flat","Low","High","All consumer groups","Mortality and foraging",NA,NA
+115,"400000","  8.0","100000"," -5.000","Medium steep","Low","High","All consumer groups","Mortality and foraging",NA,NA
+116,"400000","  4.0","100000"," -5.000","Steep","Low","High","All consumer groups","Mortality and foraging",NA,NA
+117,"400000","400.0","200000","-10.000","Flat","Low","Medium","All consumer groups","Mortality and foraging",NA,NA
+118,"400000"," 20.0","200000","-10.000","Medium flat","Low","Medium","All consumer groups","Mortality and foraging",NA,NA
+119,"400000","  8.0","200000","-10.000","Medium steep","Low","Medium","All consumer groups","Mortality and foraging",NA,NA
+120,"400000","  4.0","200000","-10.000","Steep","Low","Medium","All consumer groups","Mortality and foraging",NA,NA
+121,"400000","400.0","300000","-15.000","Flat","Low","Low","All consumer groups","Mortality and foraging",NA,NA
+122,"400000"," 20.0","300000","-15.000","Medium flat","Low","Low","All consumer groups","Mortality and foraging",NA,NA
+123,"400000","  8.0","300000","-15.000","Medium steep","Low","Low","All consumer groups","Mortality and foraging",NA,NA
+124,"400000","  4.0","300000","-15.000","Steep","Low","Low","All consumer groups","Mortality and foraging",NA,NA
+125,"200000","200.0"," 50000"," -2.500","Flat","Medium","High","All consumer groups","Mortality and foraging",NA,NA
+126,"200000"," 10.0"," 50000"," -2.500","Medium flat","Medium","High","All consumer groups","Mortality and foraging",NA,NA
+127,"200000","  4.0"," 50000"," -2.500","Medium steep","Medium","High","All consumer groups","Mortality and foraging",NA,NA
+128,"200000","  2.0"," 50000"," -2.500","Steep","Medium","High","All consumer groups","Mortality and foraging",NA,NA
+129,"200000","200.0","100000"," -5.000","Flat","Medium","Medium","All consumer groups","Mortality and foraging",NA,NA
+130,"200000"," 10.0","100000"," -5.000","Medium flat","Medium","Medium","All consumer groups","Mortality and foraging",NA,NA
+131,"200000","  4.0","100000"," -5.000","Medium steep","Medium","Medium","All consumer groups","Mortality and foraging",NA,NA
+132,"200000","  2.0","100000"," -5.000","Steep","Medium","Medium","All consumer groups","Mortality and foraging",NA,NA
+133,"200000","200.0","150000"," -7.500","Flat","Medium","Low","All consumer groups","Mortality and foraging",NA,NA
+134,"200000"," 10.0","150000"," -7.500","Medium flat","Medium","Low","All consumer groups","Mortality and foraging",NA,NA
+135,"200000","  4.0","150000"," -7.500","Medium steep","Medium","Low","All consumer groups","Mortality and foraging",NA,NA
+136,"200000","  2.0","150000"," -7.500","Steep","Medium","Low","All consumer groups","Mortality and foraging",NA,NA
+137,"100000","100.0"," 25000"," -1.250","Flat","Medium high","High","All consumer groups","Mortality and foraging",NA,NA
+138,"100000","  5.0"," 25000"," -1.250","Medium flat","Medium high","High","All consumer groups","Mortality and foraging",NA,NA
+139,"100000","  2.0"," 25000"," -1.250","Medium steep","Medium high","High","All consumer groups","Mortality and foraging",NA,NA
+140,"100000","  1.0"," 25000"," -1.250","Steep","Medium high","High","All consumer groups","Mortality and foraging",NA,NA
+141,"100000","100.0"," 50000"," -2.500","Flat","Medium high","Medium","All consumer groups","Mortality and foraging",NA,NA
+142,"100000","  5.0"," 50000"," -2.500","Medium flat","Medium high","Medium","All consumer groups","Mortality and foraging",NA,NA
+143,"100000","  2.0"," 50000"," -2.500","Medium steep","Medium high","Medium","All consumer groups","Mortality and foraging",NA,NA
+144,"100000","  1.0"," 50000"," -2.500","Steep","Medium high","Medium","All consumer groups","Mortality and foraging",NA,NA
+145,"100000","100.0"," 75000"," -3.750","Flat","Medium high","Low","All consumer groups","Mortality and foraging",NA,NA
+146,"100000","  5.0"," 75000"," -3.750","Medium flat","Medium high","Low","All consumer groups","Mortality and foraging",NA,NA
+147,"100000","  2.0"," 75000"," -3.750","Medium steep","Medium high","Low","All consumer groups","Mortality and foraging",NA,NA
+148,"100000","  1.0"," 75000"," -3.750","Steep","Medium high","Low","All consumer groups","Mortality and foraging",NA,NA
+149,"300000","300.0"," 75000"," -3.750","Flat","Medium low","High","All consumer groups","Mortality and foraging",NA,NA
+150,"300000"," 15.0"," 75000"," -3.750","Medium flat","Medium low","High","All consumer groups","Mortality and foraging",NA,NA
+151,"300000","  6.0"," 75000"," -3.750","Medium steep","Medium low","High","All consumer groups","Mortality and foraging",NA,NA
+152,"300000","  3.0"," 75000"," -3.750","Steep","Medium low","High","All consumer groups","Mortality and foraging",NA,NA
+153,"300000","300.0","150000"," -7.500","Flat","Medium low","Medium","All consumer groups","Mortality and foraging",NA,NA
+154,"300000"," 15.0","150000"," -7.500","Medium flat","Medium low","Medium","All consumer groups","Mortality and foraging",NA,NA
+155,"300000","  6.0","150000"," -7.500","Medium steep","Medium low","Medium","All consumer groups","Mortality and foraging",NA,NA
+156,"300000","  3.0","150000"," -7.500","Steep","Medium low","Medium","All consumer groups","Mortality and foraging",NA,NA
+157,"300000","300.0","225000","-11.250","Flat","Medium low","Low","All consumer groups","Mortality and foraging",NA,NA
+158,"300000"," 15.0","225000","-11.250","Medium flat","Medium low","Low","All consumer groups","Mortality and foraging",NA,NA
+159,"300000","  6.0","225000","-11.250","Medium steep","Medium low","Low","All consumer groups","Mortality and foraging",NA,NA
+160,"300000","  3.0","225000","-11.250","Steep","Medium low","Low","All consumer groups","Mortality and foraging",NA,NA
